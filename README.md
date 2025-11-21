@@ -66,7 +66,8 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![RC shift](https://github.com/user-attachments/assets/5e24164f-6e13-416a-a76d-0f92bf83f6f0)
+<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/e999eadd-1dcd-4f8a-aa9a-6491cd7481fb" />
+
 
 ---
 ## THEORY
@@ -131,7 +132,7 @@ Rf = 15K *2=30KΩ
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![wein bridge](https://github.com/user-attachments/assets/3b5bbdd8-897f-4a79-b817-92da76ab0169)
+<img width="1074" height="1280" alt="image" src="https://github.com/user-attachments/assets/40edd840-7358-4f34-85d4-742ee8d73eb0" />
 
 
 ---
